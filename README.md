@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **algorithms, React, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/liuhh02](https://github.com/liuhh02)
+- 💻 All of my projects are available at [https://github.com/liuhh02](https://github.com/liuhh02)
+
+- ⚡ My hackathon projects are available at [https://devpost.com/liuhh02](https://devpost.com/liuhh02)
 
 - 📝 I regularly write articles on [https://medium.com/@liuhh02](https://medium.com/@liuhh02)
 
