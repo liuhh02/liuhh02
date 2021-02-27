@@ -23,7 +23,7 @@
 <a href="https://medium.com/@liuhh02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@liuhh02" height="30" width="40" /></a>
 </p>
 
-### Blogs posts
+### Latest Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [So… How exactly is AI being used to detect COVID-19?](https://towardsdatascience.com/so-how-exactly-is-ai-being-used-to-detect-covid-19-d0dff155881f?source=rss-500dff1f8d3b------2)
 - [I Built a Telegram Bot to Combat Food Wastage — Here’s How](https://towardsdatascience.com/i-built-a-telegram-bot-to-combat-food-wastage-heres-how-293259a1bd32?source=rss-500dff1f8d3b------2)
