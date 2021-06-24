@@ -28,6 +28,8 @@
 - [So… How exactly is AI being used to detect COVID-19?](https://towardsdatascience.com/so-how-exactly-is-ai-being-used-to-detect-covid-19-d0dff155881f?source=rss-500dff1f8d3b------2)
 - [I Built a Telegram Bot to Combat Food Wastage — Here’s How](https://towardsdatascience.com/i-built-a-telegram-bot-to-combat-food-wastage-heres-how-293259a1bd32?source=rss-500dff1f8d3b------2)
 - [How to Deploy a Telegram Bot using Heroku for FREE](https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2?source=rss-500dff1f8d3b------2)
+- [Adversarial Attacks in Machine Learning and How to Defend Against Them](https://towardsdatascience.com/adversarial-attacks-in-machine-learning-and-how-to-defend-against-them-a2beed95f49c?source=rss-500dff1f8d3b------2)
+- [Responsible Data Science](https://towardsdatascience.com/responsible-data-science-part-1-1906062fe486?source=rss-500dff1f8d3b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
